@@ -78,7 +78,6 @@
     <Compile Include="Assets\SceneGame\RealisticCarControllerV3\Scripts\RCC_AIBrakeZonesContainer.cs" />
     <Compile Include="Assets\SceneGame\Scripts\GameTutorial.cs" />
     <Compile Include="Assets\SceneGame\RealisticCarControllerV3\Scripts\RCC_Useless.cs" />
-    <Compile Include="Assets\SceneGame\Scripts\PlayerPlaceInRace\Circle\PlayerPlaceInRaceCircle.cs" />
     <Compile Include="Assets\SceneMenu\Scripts\SettingsMenu.cs" />
     <Compile Include="Assets\SceneGame\Scripts\Level\Freeway.cs" />
     <Compile Include="Assets\SceneGame\RealisticCarControllerV3\Scripts\RCC_UIDashboardButton.cs" />
@@ -98,6 +97,7 @@
     <Compile Include="Assets\SceneGame\RealisticCarControllerV3\Scripts\RCC_CarSelectionExample.cs" />
     <Compile Include="Assets\SceneGame\RealisticCarControllerV3\Scripts\RCC_Caliper.cs" />
     <Compile Include="Assets\SceneGame\RealisticCarControllerV3\Scripts\RCC_FOVForCinematicCamera.cs" />
+    <Compile Include="Assets\Others\SettingsGame.cs" />
     <Compile Include="Assets\SceneGame\Scripts\Counter.cs" />
     <Compile Include="Assets\SceneMenu\Scripts\StartGame.cs" />
     <Compile Include="Assets\SceneGame\RealisticCarControllerV3\Scripts\RCC.cs" />
@@ -151,12 +151,6 @@
     <Compile Include="Assets\SceneGame\RealisticCarControllerV3\Scripts\RCC_DetachablePart.cs" />
     <Compile Include="Assets\SceneGame\RealisticCarControllerV3\Scripts\RCC_Mirror.cs" />
     <Compile Include="Assets\SceneGame\RealisticCarControllerV3\Scripts\RCC_CarControllerV3.cs" />
-    <Compile Include="Assets\Others\SettingsGame.cs" />
-    <Compile Include="Assets\SceneGame\Scripts\PlayerPlaceInRace\BotDistance.cs" />
-    <Compile Include="Assets\SceneGame\Scripts\PlayerPlaceInRace\PlayerDistance.cs" />
-    <Compile Include="Assets\SceneGame\Scripts\PlayerPlaceInRace\Timer\PlayerPlaceInRaceTimer.cs" />
-    <Compile Include="Assets\SceneGame\Scripts\PlayerPlaceInRace\Sprint\PlayerPlaceInRaceSprint.cs" />
-    <Compile Include="Assets\SceneGame\Scripts\PlayerPlaceInRace\Sprint\PlaceChecker.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Others\TextMesh Pro\Shaders\TMPro.cginc" />
