@@ -6,11 +6,12 @@ public class LoadProgress : MonoBehaviour
     {
         if (PlayerPrefs.HasKey("Progress"))
         {
-            StartGame.CurrentCarLevel = PlayerPrefs.GetInt("Progress");
+            StartGame.CarLevel = PlayerPrefs.GetInt("Progress");
         }
         else
         {
-            StartGame.CurrentCarLevel = 1;
+            StartGame.CarLevel = 1;
         }
+
     }
 }

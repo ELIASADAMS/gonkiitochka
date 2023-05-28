@@ -14,7 +14,7 @@ public class PlayerProgress : MonoBehaviour
 
     public void ClosePanel()
     {
-        if(StartGame.CarLevel <= StartGame.CurrentCarLevel)
+        if(StartGame.CarLevel >= StartGame.CurrentCarLevel)
             _panel_close.SetActive(false);
         else
             _panel_close.SetActive(true);

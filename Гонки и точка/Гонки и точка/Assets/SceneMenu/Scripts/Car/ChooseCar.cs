@@ -77,7 +77,7 @@ public class ChooseCar : MonoBehaviour
             StartGame.CarClass = 1;
         }
         StartGame.NumberSelectedCar = _number_selecred_car;
-        StartGame.CarLevel = _cars[_number_selecred_car].Level;
+        StartGame.CurrentCarLevel = _cars[_number_selecred_car].Level;
         _playerProgress.ClosePanel();
     }
 }
