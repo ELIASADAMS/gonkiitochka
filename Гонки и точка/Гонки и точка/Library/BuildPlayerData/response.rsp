@@ -27,6 +27,7 @@
 -a="F:\gonkiitochka\gonkiitochka\gonkiitochka\Гонки и точка\Гонки и точка\Library\PlayerScriptAssemblies\Unity.Services.Core.Threading.dll"
 -a="F:\gonkiitochka\gonkiitochka\gonkiitochka\Гонки и точка\Гонки и точка\Library\PlayerScriptAssemblies\Unity.VisualScripting.State.dll"
 -a="F:\gonkiitochka\gonkiitochka\gonkiitochka\Гонки и точка\Гонки и точка\Library\PlayerScriptAssemblies\Unity.Services.Core.Device.dll"
+-a="F:\gonkiitochka\gonkiitochka\gonkiitochka\Гонки и точка\Гонки и точка\Library\PlayerScriptAssemblies\Unity.Postprocessing.Runtime.dll"
 -a="F:\gonkiitochka\gonkiitochka\gonkiitochka\Гонки и точка\Гонки и точка\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2\Runtime\AOT\Newtonsoft.Json.dll"
 -a="F:\gonkiitochka\gonkiitochka\gonkiitochka\Гонки и точка\Гонки и точка\Library\PackageCache\com.unity.burst@1.7.3\Unity.Burst.Unsafe.dll"
 -a="F:\gonkiitochka\gonkiitochka\gonkiitochka\Гонки и точка\Гонки и точка\Library\PackageCache\com.unity.burst@1.7.3\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll"

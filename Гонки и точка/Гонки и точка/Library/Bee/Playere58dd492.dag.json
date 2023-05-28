@@ -186,7 +186,8 @@
         178,
         179,
         180,
-        181
+        181,
+        182
       ],
       "AllowUnexpectedOutput": true,
       "DebugActionIndex": 0
@@ -863,6 +864,17 @@
       "DebugActionIndex": 61
     },
     {
+      "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Postprocessing.Runtime.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Postprocessing.Runtime.dll"
+      ],
+      "Outputs": [
+        "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Postprocessing.Runtime.dll"
+      ],
+      "DebugActionIndex": 62
+    },
+    {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
@@ -871,7 +883,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll"
       ],
-      "DebugActionIndex": 62
+      "DebugActionIndex": 63
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
@@ -882,7 +894,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll"
       ],
-      "DebugActionIndex": 63
+      "DebugActionIndex": 64
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
@@ -893,7 +905,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll"
       ],
-      "DebugActionIndex": 64
+      "DebugActionIndex": 65
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
@@ -904,7 +916,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll"
       ],
-      "DebugActionIndex": 65
+      "DebugActionIndex": 66
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
@@ -915,7 +927,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll"
       ],
-      "DebugActionIndex": 66
+      "DebugActionIndex": 67
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll",
@@ -926,7 +938,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll"
       ],
-      "DebugActionIndex": 67
+      "DebugActionIndex": 68
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.Analytics.dll",
@@ -937,7 +949,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.Analytics.dll"
       ],
-      "DebugActionIndex": 68
+      "DebugActionIndex": 69
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.Configuration.dll",
@@ -948,7 +960,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.Configuration.dll"
       ],
-      "DebugActionIndex": 69
+      "DebugActionIndex": 70
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.Device.dll",
@@ -959,7 +971,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.Device.dll"
       ],
-      "DebugActionIndex": 70
+      "DebugActionIndex": 71
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.dll",
@@ -970,7 +982,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.dll"
       ],
-      "DebugActionIndex": 71
+      "DebugActionIndex": 72
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.Environments.dll",
@@ -981,7 +993,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.Environments.dll"
       ],
-      "DebugActionIndex": 72
+      "DebugActionIndex": 73
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.Environments.Internal.dll",
@@ -992,7 +1004,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.Environments.Internal.dll"
       ],
-      "DebugActionIndex": 73
+      "DebugActionIndex": 74
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.Internal.dll",
@@ -1003,7 +1015,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.Internal.dll"
       ],
-      "DebugActionIndex": 74
+      "DebugActionIndex": 75
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.Networking.dll",
@@ -1014,7 +1026,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.Networking.dll"
       ],
-      "DebugActionIndex": 75
+      "DebugActionIndex": 76
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.Registration.dll",
@@ -1025,7 +1037,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.Registration.dll"
       ],
-      "DebugActionIndex": 76
+      "DebugActionIndex": 77
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.Scheduler.dll",
@@ -1036,7 +1048,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.Scheduler.dll"
       ],
-      "DebugActionIndex": 77
+      "DebugActionIndex": 78
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.Telemetry.dll",
@@ -1047,7 +1059,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.Telemetry.dll"
       ],
-      "DebugActionIndex": 78
+      "DebugActionIndex": 79
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.Threading.dll",
@@ -1058,7 +1070,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Services.Core.Threading.dll"
       ],
-      "DebugActionIndex": 79
+      "DebugActionIndex": 80
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.TextMeshPro.dll",
@@ -1069,7 +1081,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.TextMeshPro.dll"
       ],
-      "DebugActionIndex": 80
+      "DebugActionIndex": 81
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Timeline.dll",
@@ -1080,7 +1092,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.Timeline.dll"
       ],
-      "DebugActionIndex": 81
+      "DebugActionIndex": 82
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll",
@@ -1091,7 +1103,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll"
       ],
-      "DebugActionIndex": 82
+      "DebugActionIndex": 83
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.VisualScripting.Core.dll",
@@ -1102,7 +1114,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.VisualScripting.Core.dll"
       ],
-      "DebugActionIndex": 83
+      "DebugActionIndex": 84
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.VisualScripting.Flow.dll",
@@ -1113,7 +1125,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.VisualScripting.Flow.dll"
       ],
-      "DebugActionIndex": 84
+      "DebugActionIndex": 85
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.VisualScripting.State.dll",
@@ -1124,7 +1136,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/Unity.VisualScripting.State.dll"
       ],
-      "DebugActionIndex": 85
+      "DebugActionIndex": 86
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.AccessibilityModule.dll",
@@ -1135,7 +1147,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.AccessibilityModule.dll"
       ],
-      "DebugActionIndex": 86
+      "DebugActionIndex": 87
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.AIModule.dll",
@@ -1146,7 +1158,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.AIModule.dll"
       ],
-      "DebugActionIndex": 87
+      "DebugActionIndex": 88
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.AndroidJNIModule.dll",
@@ -1157,7 +1169,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.AndroidJNIModule.dll"
       ],
-      "DebugActionIndex": 88
+      "DebugActionIndex": 89
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.AnimationModule.dll",
@@ -1168,7 +1180,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.AnimationModule.dll"
       ],
-      "DebugActionIndex": 89
+      "DebugActionIndex": 90
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.ARModule.dll",
@@ -1179,7 +1191,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.ARModule.dll"
       ],
-      "DebugActionIndex": 90
+      "DebugActionIndex": 91
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.AssetBundleModule.dll",
@@ -1190,7 +1202,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.AssetBundleModule.dll"
       ],
-      "DebugActionIndex": 91
+      "DebugActionIndex": 92
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.AudioModule.dll",
@@ -1201,7 +1213,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.AudioModule.dll"
       ],
-      "DebugActionIndex": 92
+      "DebugActionIndex": 93
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.ClothModule.dll",
@@ -1212,7 +1224,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.ClothModule.dll"
       ],
-      "DebugActionIndex": 93
+      "DebugActionIndex": 94
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.ClusterInputModule.dll",
@@ -1223,7 +1235,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.ClusterInputModule.dll"
       ],
-      "DebugActionIndex": 94
+      "DebugActionIndex": 95
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.ClusterRendererModule.dll",
@@ -1234,7 +1246,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.ClusterRendererModule.dll"
       ],
-      "DebugActionIndex": 95
+      "DebugActionIndex": 96
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.CoreModule.dll",
@@ -1245,7 +1257,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.CoreModule.dll"
       ],
-      "DebugActionIndex": 96
+      "DebugActionIndex": 97
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.CrashReportingModule.dll",
@@ -1256,7 +1268,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.CrashReportingModule.dll"
       ],
-      "DebugActionIndex": 97
+      "DebugActionIndex": 98
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.DirectorModule.dll",
@@ -1267,7 +1279,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.DirectorModule.dll"
       ],
-      "DebugActionIndex": 98
+      "DebugActionIndex": 99
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.dll",
@@ -1278,7 +1290,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.dll"
       ],
-      "DebugActionIndex": 99
+      "DebugActionIndex": 100
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.DSPGraphModule.dll",
@@ -1289,7 +1301,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.DSPGraphModule.dll"
       ],
-      "DebugActionIndex": 100
+      "DebugActionIndex": 101
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.GameCenterModule.dll",
@@ -1300,7 +1312,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.GameCenterModule.dll"
       ],
-      "DebugActionIndex": 101
+      "DebugActionIndex": 102
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.GIModule.dll",
@@ -1311,7 +1323,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.GIModule.dll"
       ],
-      "DebugActionIndex": 102
+      "DebugActionIndex": 103
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.GridModule.dll",
@@ -1322,7 +1334,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.GridModule.dll"
       ],
-      "DebugActionIndex": 103
+      "DebugActionIndex": 104
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.HotReloadModule.dll",
@@ -1333,7 +1345,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.HotReloadModule.dll"
       ],
-      "DebugActionIndex": 104
+      "DebugActionIndex": 105
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.ImageConversionModule.dll",
@@ -1344,7 +1356,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.ImageConversionModule.dll"
       ],
-      "DebugActionIndex": 105
+      "DebugActionIndex": 106
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.IMGUIModule.dll",
@@ -1355,7 +1367,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.IMGUIModule.dll"
       ],
-      "DebugActionIndex": 106
+      "DebugActionIndex": 107
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.InputLegacyModule.dll",
@@ -1366,7 +1378,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.InputLegacyModule.dll"
       ],
-      "DebugActionIndex": 107
+      "DebugActionIndex": 108
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.InputModule.dll",
@@ -1377,7 +1389,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.InputModule.dll"
       ],
-      "DebugActionIndex": 108
+      "DebugActionIndex": 109
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.JSONSerializeModule.dll",
@@ -1388,7 +1400,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.JSONSerializeModule.dll"
       ],
-      "DebugActionIndex": 109
+      "DebugActionIndex": 110
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.LocalizationModule.dll",
@@ -1399,7 +1411,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.LocalizationModule.dll"
       ],
-      "DebugActionIndex": 110
+      "DebugActionIndex": 111
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.NVIDIAModule.dll",
@@ -1410,7 +1422,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.NVIDIAModule.dll"
       ],
-      "DebugActionIndex": 111
+      "DebugActionIndex": 112
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.ParticleSystemModule.dll",
@@ -1421,7 +1433,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.ParticleSystemModule.dll"
       ],
-      "DebugActionIndex": 112
+      "DebugActionIndex": 113
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
@@ -1432,7 +1444,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.PerformanceReportingModule.dll"
       ],
-      "DebugActionIndex": 113
+      "DebugActionIndex": 114
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.Physics2DModule.dll",
@@ -1443,7 +1455,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.Physics2DModule.dll"
       ],
-      "DebugActionIndex": 114
+      "DebugActionIndex": 115
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.PhysicsModule.dll",
@@ -1454,7 +1466,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.PhysicsModule.dll"
       ],
-      "DebugActionIndex": 115
+      "DebugActionIndex": 116
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.ProfilerModule.dll",
@@ -1465,7 +1477,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.ProfilerModule.dll"
       ],
-      "DebugActionIndex": 116
+      "DebugActionIndex": 117
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
@@ -1476,7 +1488,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
       ],
-      "DebugActionIndex": 117
+      "DebugActionIndex": 118
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
@@ -1487,7 +1499,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.ScreenCaptureModule.dll"
       ],
-      "DebugActionIndex": 118
+      "DebugActionIndex": 119
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.SharedInternalsModule.dll",
@@ -1498,7 +1510,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.SharedInternalsModule.dll"
       ],
-      "DebugActionIndex": 119
+      "DebugActionIndex": 120
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.SpriteMaskModule.dll",
@@ -1509,7 +1521,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.SpriteMaskModule.dll"
       ],
-      "DebugActionIndex": 120
+      "DebugActionIndex": 121
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.SpriteShapeModule.dll",
@@ -1520,7 +1532,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.SpriteShapeModule.dll"
       ],
-      "DebugActionIndex": 121
+      "DebugActionIndex": 122
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.StreamingModule.dll",
@@ -1531,7 +1543,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.StreamingModule.dll"
       ],
-      "DebugActionIndex": 122
+      "DebugActionIndex": 123
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.SubstanceModule.dll",
@@ -1542,7 +1554,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.SubstanceModule.dll"
       ],
-      "DebugActionIndex": 123
+      "DebugActionIndex": 124
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.SubsystemsModule.dll",
@@ -1553,7 +1565,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.SubsystemsModule.dll"
       ],
-      "DebugActionIndex": 124
+      "DebugActionIndex": 125
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.TerrainModule.dll",
@@ -1564,7 +1576,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.TerrainModule.dll"
       ],
-      "DebugActionIndex": 125
+      "DebugActionIndex": 126
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
@@ -1575,7 +1587,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.TerrainPhysicsModule.dll"
       ],
-      "DebugActionIndex": 126
+      "DebugActionIndex": 127
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
@@ -1586,7 +1598,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll"
       ],
-      "DebugActionIndex": 127
+      "DebugActionIndex": 128
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
@@ -1597,7 +1609,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll"
       ],
-      "DebugActionIndex": 128
+      "DebugActionIndex": 129
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.TextRenderingModule.dll",
@@ -1608,7 +1620,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.TextRenderingModule.dll"
       ],
-      "DebugActionIndex": 129
+      "DebugActionIndex": 130
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.TilemapModule.dll",
@@ -1619,7 +1631,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.TilemapModule.dll"
       ],
-      "DebugActionIndex": 130
+      "DebugActionIndex": 131
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.TLSModule.dll",
@@ -1630,7 +1642,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.TLSModule.dll"
       ],
-      "DebugActionIndex": 131
+      "DebugActionIndex": 132
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UI.dll",
@@ -1641,7 +1653,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UI.dll"
       ],
-      "DebugActionIndex": 132
+      "DebugActionIndex": 133
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UIElementsModule.dll",
@@ -1652,7 +1664,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UIElementsModule.dll"
       ],
-      "DebugActionIndex": 133
+      "DebugActionIndex": 134
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UIElementsNativeModule.dll",
@@ -1663,7 +1675,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UIElementsNativeModule.dll"
       ],
-      "DebugActionIndex": 134
+      "DebugActionIndex": 135
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UIModule.dll",
@@ -1674,7 +1686,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UIModule.dll"
       ],
-      "DebugActionIndex": 135
+      "DebugActionIndex": 136
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UmbraModule.dll",
@@ -1685,7 +1697,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UmbraModule.dll"
       ],
-      "DebugActionIndex": 136
+      "DebugActionIndex": 137
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UNETModule.dll",
@@ -1696,7 +1708,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UNETModule.dll"
       ],
-      "DebugActionIndex": 137
+      "DebugActionIndex": 138
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
@@ -1707,7 +1719,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll"
       ],
-      "DebugActionIndex": 138
+      "DebugActionIndex": 139
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
@@ -1718,7 +1730,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UnityAnalyticsModule.dll"
       ],
-      "DebugActionIndex": 139
+      "DebugActionIndex": 140
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UnityConnectModule.dll",
@@ -1729,7 +1741,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UnityConnectModule.dll"
       ],
-      "DebugActionIndex": 140
+      "DebugActionIndex": 141
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UnityCurlModule.dll",
@@ -1740,7 +1752,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UnityCurlModule.dll"
       ],
-      "DebugActionIndex": 141
+      "DebugActionIndex": 142
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
@@ -1751,7 +1763,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UnityTestProtocolModule.dll"
       ],
-      "DebugActionIndex": 142
+      "DebugActionIndex": 143
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
@@ -1762,7 +1774,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll"
       ],
-      "DebugActionIndex": 143
+      "DebugActionIndex": 144
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
@@ -1773,7 +1785,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll"
       ],
-      "DebugActionIndex": 144
+      "DebugActionIndex": 145
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
@@ -1784,7 +1796,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UnityWebRequestModule.dll"
       ],
-      "DebugActionIndex": 145
+      "DebugActionIndex": 146
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
@@ -1795,7 +1807,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll"
       ],
-      "DebugActionIndex": 146
+      "DebugActionIndex": 147
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
@@ -1806,7 +1818,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll"
       ],
-      "DebugActionIndex": 147
+      "DebugActionIndex": 148
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.VehiclesModule.dll",
@@ -1817,7 +1829,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.VehiclesModule.dll"
       ],
-      "DebugActionIndex": 148
+      "DebugActionIndex": 149
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.VFXModule.dll",
@@ -1828,7 +1840,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.VFXModule.dll"
       ],
-      "DebugActionIndex": 149
+      "DebugActionIndex": 150
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.VideoModule.dll",
@@ -1839,7 +1851,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.VideoModule.dll"
       ],
-      "DebugActionIndex": 150
+      "DebugActionIndex": 151
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
@@ -1850,7 +1862,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.VirtualTexturingModule.dll"
       ],
-      "DebugActionIndex": 151
+      "DebugActionIndex": 152
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.VRModule.dll",
@@ -1861,7 +1873,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.VRModule.dll"
       ],
-      "DebugActionIndex": 152
+      "DebugActionIndex": 153
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.WindModule.dll",
@@ -1872,7 +1884,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.WindModule.dll"
       ],
-      "DebugActionIndex": 153
+      "DebugActionIndex": 154
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.XRModule.dll",
@@ -1883,7 +1895,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Managed/UnityEngine.XRModule.dll"
       ],
-      "DebugActionIndex": 154
+      "DebugActionIndex": 155
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info",
@@ -1894,7 +1906,7 @@
         "Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info"
       ],
       "AllowUnwrittenOutputFiles": true,
-      "DebugActionIndex": 155
+      "DebugActionIndex": 156
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/app.info",
@@ -1906,9 +1918,9 @@
         "D:/Гонки и Тотчка/Гонки и точка_Data/app.info"
       ],
       "ToBuildDependencies": [
-        155
+        156
       ],
-      "DebugActionIndex": 156
+      "DebugActionIndex": 157
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка_Data/Resources/unity default resources",
@@ -1919,7 +1931,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка_Data/Resources/unity default resources"
       ],
-      "DebugActionIndex": 157
+      "DebugActionIndex": 158
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/Гонки и точка.exe",
@@ -1930,7 +1942,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/Гонки и точка.exe"
       ],
-      "DebugActionIndex": 158
+      "DebugActionIndex": 159
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/UnityCrashHandler64.exe",
@@ -1941,7 +1953,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/UnityCrashHandler64.exe"
       ],
-      "DebugActionIndex": 159
+      "DebugActionIndex": 160
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/UnityPlayer.dll",
@@ -1952,7 +1964,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/UnityPlayer.dll"
       ],
-      "DebugActionIndex": 160
+      "DebugActionIndex": 161
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
@@ -1963,7 +1975,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll"
       ],
-      "DebugActionIndex": 161
+      "DebugActionIndex": 162
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
@@ -1974,7 +1986,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll"
       ],
-      "DebugActionIndex": 162
+      "DebugActionIndex": 163
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/browscap.ini",
@@ -1985,7 +1997,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/browscap.ini"
       ],
-      "DebugActionIndex": 163
+      "DebugActionIndex": 164
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/config",
@@ -1996,7 +2008,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/config"
       ],
-      "DebugActionIndex": 164
+      "DebugActionIndex": 165
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
@@ -2007,7 +2019,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx"
       ],
-      "DebugActionIndex": 165
+      "DebugActionIndex": 166
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/2.0/machine.config",
@@ -2018,7 +2030,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/2.0/machine.config"
       ],
-      "DebugActionIndex": 166
+      "DebugActionIndex": 167
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/2.0/settings.map",
@@ -2029,7 +2041,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/2.0/settings.map"
       ],
-      "DebugActionIndex": 167
+      "DebugActionIndex": 168
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/2.0/web.config",
@@ -2040,7 +2052,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/2.0/web.config"
       ],
-      "DebugActionIndex": 168
+      "DebugActionIndex": 169
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
@@ -2051,7 +2063,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser"
       ],
-      "DebugActionIndex": 169
+      "DebugActionIndex": 170
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
@@ -2062,7 +2074,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx"
       ],
-      "DebugActionIndex": 170
+      "DebugActionIndex": 171
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/4.0/machine.config",
@@ -2073,7 +2085,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/4.0/machine.config"
       ],
-      "DebugActionIndex": 171
+      "DebugActionIndex": 172
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/4.0/settings.map",
@@ -2084,7 +2096,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/4.0/settings.map"
       ],
-      "DebugActionIndex": 172
+      "DebugActionIndex": 173
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/4.0/web.config",
@@ -2095,7 +2107,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/4.0/web.config"
       ],
-      "DebugActionIndex": 173
+      "DebugActionIndex": 174
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
@@ -2106,7 +2118,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser"
       ],
-      "DebugActionIndex": 174
+      "DebugActionIndex": 175
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
@@ -2117,7 +2129,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx"
       ],
-      "DebugActionIndex": 175
+      "DebugActionIndex": 176
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/4.5/machine.config",
@@ -2128,7 +2140,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/4.5/machine.config"
       ],
-      "DebugActionIndex": 176
+      "DebugActionIndex": 177
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/4.5/settings.map",
@@ -2139,7 +2151,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/4.5/settings.map"
       ],
-      "DebugActionIndex": 177
+      "DebugActionIndex": 178
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/4.5/web.config",
@@ -2150,7 +2162,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/4.5/web.config"
       ],
-      "DebugActionIndex": 178
+      "DebugActionIndex": 179
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
@@ -2161,7 +2173,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser"
       ],
-      "DebugActionIndex": 179
+      "DebugActionIndex": 180
     },
     {
       "Annotation": "CopyFiles D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/mconfig/config.xml",
@@ -2172,7 +2184,7 @@
       "Outputs": [
         "D:/Гонки и Тотчка/MonoBleedingEdge/etc/mono/mconfig/config.xml"
       ],
-      "DebugActionIndex": 180
+      "DebugActionIndex": 181
     },
     {
       "Annotation": "Player",
@@ -2334,7 +2346,7 @@
         152,
         153,
         154,
-        156,
+        155,
         157,
         158,
         159,
@@ -2358,10 +2370,11 @@
         177,
         178,
         179,
-        180
+        180,
+        181
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 181
+      "DebugActionIndex": 182
     }
   ],
   "FileSignatures": [
@@ -2571,7 +2584,7 @@
   "EmitDataForBeeWhy": 0,
         "NamedNodes": {
           "all_tundra_nodes": 0,
-          "Player": 181
+          "Player": 182
         }
 ,  "DefaultNodes": [
     0
