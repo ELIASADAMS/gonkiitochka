@@ -19,6 +19,7 @@ ScriptsOnlyBuild:
     - LoadProgress
     - LoadingScenes
     - MainMenu
+    - PlayerDistance
     - PlayerProgress
     - RCC_AICarController
     - RCC_AIWaypointsContainer
@@ -1166,6 +1167,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 213
       Script: {instanceID: 0}
+    - Class: 215
+      Script: {instanceID: 0}
+    - Class: 220
+      Script: {instanceID: 0}
     - Class: 222
       Script: {instanceID: 0}
     - Class: 223
@@ -1173,6 +1178,8 @@ ScriptsOnlyBuild:
     - Class: 224
       Script: {instanceID: 0}
     - Class: 258
+      Script: {instanceID: 0}
+    - Class: 850595691
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -1831,6 +1838,12 @@ ScriptsOnlyBuild:
     className: DebugUIHandlerVBox
   - hash:
       serializedVersion: 2
+      Hash: a0419aac3d93727657210de028b271f2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerDistance
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
@@ -1865,6 +1878,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.RenderPipelines.Universal.Runtime.dll
     namespaceName: UnityEngine.Rendering.Universal
     className: ForwardRendererData
+  - hash:
+      serializedVersion: 2
+      Hash: 3d6dc5679556a6b6f75b0b5113c1695c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerPlaceInRaceCircle
   - hash:
       serializedVersion: 2
       Hash: bd3cf68c8964d3c66d1c43f4f98508c9
@@ -2737,10 +2756,22 @@ ScriptsOnlyBuild:
     className: CinemachineImpulseSource
   - hash:
       serializedVersion: 2
+      Hash: e6e73948d381b6d945de1099fe1d3b2a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerPlaceInRaceSprint
+  - hash:
+      serializedVersion: 2
       Hash: 8e6ceabfd38a184413d69b7db56c89cc
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools
     className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: 8487a4368de19e5c0e25d8e0397fd953
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BotDistance
   - hash:
       serializedVersion: 2
       Hash: b02546fd00ac6dc2fae4119a1a3ace64
@@ -2995,6 +3026,12 @@ ScriptsOnlyBuild:
     className: UnityOnMoveMessageListener
   - hash:
       serializedVersion: 2
+      Hash: 9695061c7e3888a509ae6de4f40dcbad
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerPlaceInRaceTimer
+  - hash:
+      serializedVersion: 2
       Hash: ce46c87ede95ddd711d94d07c476acbb
     assemblyName: Unity.RenderPipelines.Universal.Runtime.dll
     namespaceName: UnityEngine.Rendering.Universal
@@ -3187,6 +3224,12 @@ ScriptsOnlyBuild:
     className: CinemachineRecomposer
   - hash:
       serializedVersion: 2
+      Hash: c88c4199b288356ec3eb2f0d85abc619
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlaceChecker
+  - hash:
+      serializedVersion: 2
       Hash: b5c3dbcb94925c8b595ad16a62b44788
     assemblyName: Cinemachine.dll
     namespaceName: Cinemachine
@@ -3269,5 +3312,5 @@ ScriptsOnlyBuild:
   - Assets/SceneMenu/Menu.unity
   - Assets/Others/Loading/LoadingGame.unity
   - Assets/SceneGame/Game.unity
-  playerPath: "E:/Work/Unity/Projects/\u0413\u043E\u043D\u043A\u0438 \u0438 \u0442\u043E\u0447\u043A\u0430/Build/\u0413\u043E\u043D\u043A\u0438
+  playerPath: "D:/\u0413\u043E\u043D\u043A\u0438 \u0438 \u0422\u043E\u0442\u0447\u043A\u0430/\u0413\u043E\u043D\u043A\u0438
     \u0438 \u0442\u043E\u0447\u043A\u0430.exe"
