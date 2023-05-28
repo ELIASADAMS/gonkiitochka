@@ -52,6 +52,7 @@ public class UIButtons : MonoBehaviour
     public void ButtonContinueFinish()
     {
         _panel_finish.SetActive(false);
+        CursorStates.Instance.IsGameOver = false;
     }
 
     public void ButtonRestart()

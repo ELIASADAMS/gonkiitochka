@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 5475594}
   - component: {fileID: 11495930}
   - component: {fileID: -3500731844249450727}
-  - component: {fileID: 3271461633286432142}
   m_Layer: 3
   m_Name: M3_E36
   m_TagString: Player
@@ -290,19 +289,6 @@ MonoBehaviour:
   _break_lights:
   - {fileID: 672534944579951544}
   - {fileID: 3523881911272921740}
---- !u!114 &3271461633286432142
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 102514}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b610c5beacba2584a8aa8ed84df4f592, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  name: 
 --- !u!1 &110108
 GameObject:
   m_ObjectHideFlags: 0
@@ -11239,22 +11225,6 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 5475112921241689678, guid: 8a9f69ab2ef7f9a4a862920ce83365d3, type: 3}
---- !u!208 &8543986106627652047
-NavMeshObstacle:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1841807859935720077}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Shape: 1
-  m_Extents: {x: 0.009000001, y: 0.007, z: 0.020000001}
-  m_MoveThreshold: 0.1
-  m_Carve: 1
-  m_CarveOnlyStationary: 0
-  m_Center: {x: 0, y: 0, z: 0.002}
-  m_TimeToStationary: 0.5
 --- !u!4 &2875325760546963832 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4871039163930590004, guid: 8a9f69ab2ef7f9a4a862920ce83365d3,

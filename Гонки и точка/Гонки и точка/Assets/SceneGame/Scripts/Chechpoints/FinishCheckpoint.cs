@@ -7,15 +7,6 @@ public class FinishCheckpoint : MonoBehaviour
     [SerializeField] private GameObject _finish_panel;
     [SerializeField] private int _number_next_level;
 
-    [Space]
-    [Header("Race result")]
-    [SerializeField] private PlayerPlaceInRaceCircle _player_place;
-    [SerializeField] private TMP_Text _text_race_result;
-    private string _win = "ÏÎÇÄÐÀÂËßÅÌ ÂÛ ÏÎÁÅÄÈËÈ";
-    private string _win_timer = "ÏÎÇÄÐÀÂËßÅÌ ÂÛ ÓÑÏÅËÈ";
-    private string _lose = "ÂÛ ÏÐÎÈÃÐÀËÈ ÏÎÏÐÎÁÓÉÒÅ ÅÙ¨ ÐÀÇ";
-    private string _lose_timer = "ÂÛ ÍÅ ÓÑÏÅËÈ ÏÎÏÐÎÁÓÉÒÅ ÅÙ¨ ÐÀÇ";
-
     private void Awake()
     {
         _finish_panel.SetActive(false);
@@ -28,30 +19,11 @@ public class FinishCheckpoint : MonoBehaviour
             CursorStates.Instance.GameOver();
             _finish_panel.SetActive(true);
             gameObject.SetActive(false);
-            if (PlayerPlaceInRaceTimer.Instance != null)
+            if (_number_next_level > StartGame.CarLevel)
             {
-                if (PlayerPlaceInRaceTimer.Instance.CheckWin())
-                {
-                    _text_race_result.text = _win_timer;
-                }
-                else
-                {
-                    _text_race_result.text = _lose_timer;
-                }
+                StartGame.CarLevel = _number_next_level;
+                PlayerPrefs.SetInt("Progress", StartGame.CarLevel);
             }
-            //else if (PlayerPlaceInRaceSprint.Instance != null)
-            //{
-            //    if (PlayerPlaceInRaceSprint.Instance.PlayerPlace == 1)
-            //    {
-            //        _text_race_result.text = _win;
-            //    }
-            //    else
-            //    {
-            //        _text_race_result.text = _lose;
-            //    }
-            //}
-
-           
         }
     }
 }

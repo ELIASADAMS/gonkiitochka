@@ -22,13 +22,13 @@ public class ChooseLevel : MonoBehaviour
             _freeway.SetActive(true);
             _arrow.SetActive(false);
         }
-        else if (StartGame.CarLevel > 0)
+        else if (StartGame.CurrentCarLevel > 0)
         {
-            if (StartGame.CarLevel != 1)
+            if (StartGame.CurrentCarLevel != 1)
             {
                 Counter.Instance.Countdown();
             }
-            _levels[StartGame.CarLevel - 1].SetActive(true);
+            _levels[StartGame.CurrentCarLevel - 1].SetActive(true);
         }
     }
 }
