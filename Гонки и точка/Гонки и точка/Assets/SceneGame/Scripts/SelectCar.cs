@@ -25,8 +25,10 @@ public class SelectCar : MonoBehaviour
         int behavior;
         if (StartGame.CarClass == 2)
         {
+        if (_rigidbody!= null){
             _rigidbody.useGravity = false;
             _rigidbody.isKinematic = true;
+            }
             behavior = 1;
         }
         else

@@ -16,18 +16,24 @@ public class BackgroundMusic : MonoBehaviour
 
     private void Start()
     {
-        switch (StartGame.CarLevel)
-        {
-            case 1:
-                _audio_source.clip = _level_1;
-                break;
-            case 2:
-                _audio_source.clip = _level_2;
-                break;
-            case 3:
-                _audio_source.clip = _level_3;
-                break;
-        }
+        switch (StartGame.CurrentCarLevel)
+{
+case 0:
+case 1:
+_audio_source.clip = _level_1;
+break;
+case 2:
+case 3:
+_audio_source.clip = _level_2;
+break;
+case 4:
+case 5:
+_audio_source.clip = _level_3;
+break;
+case 6:
+_audio_source.clip = _level_2;
+break;
+}
         MusicPlay();
     }
 

@@ -16344,7 +16344,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CurrentCheckpoint: 0
   CurrentLap: 1
-  _rigidbody: {fileID: 54445428651654046}
+  _rigidbody: {fileID: 0}
   _lights:
   - {fileID: 4340231638468007099}
   _break_lights:
