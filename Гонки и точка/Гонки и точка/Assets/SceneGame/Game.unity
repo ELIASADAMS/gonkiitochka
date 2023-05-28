@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 8900000, guid: 99fb1b8998a83ac40aab660bc1f8dcb2, type: 3}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.0031308993, g: 0.0061696176, b: 0.014244638, a: 1}
+  m_IndirectSpecularColor: {r: 0.00313068, g: 0.0061691664, b: 0.014243009, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &4
 LightmapSettings:
@@ -28612,6 +28612,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22883dd20735a6649b6c818499acfd01, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  WaypointNumber: 0
+  LapNumber: 0
+  DistanceCurrentWaypoint: 0
 --- !u!1 &1326473603
 GameObject:
   m_ObjectHideFlags: 0
@@ -39931,7 +39934,7 @@ LightingSettings:
   m_Name: Settings.lighting
   serializedVersion: 4
   m_GIWorkflowMode: 0
-  m_EnableBakedLightmaps: 0
+  m_EnableBakedLightmaps: 1
   m_EnableRealtimeLightmaps: 0
   m_RealtimeEnvironmentLighting: 0
   m_BounceScale: 1
