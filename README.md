@@ -33,16 +33,16 @@ Players control a vehicle and must navigate the streets of Moscow, taking corner
 
 ## Game Modes
 
-*   **Lap Race:** Race against opponents to complete a set number of laps.
+*   **Circuit:** Race against opponents to complete a set number of circuits.
 *   **Sprint:** Race against opponents on a point-to-point track.
 *   **Time Trial:** Race against the clock to achieve the fastest lap time.
 *   **Free Race:** Explore the Moscow streets without competition or time limits.
 
 ## Credits
 
-*   **Mikhail Tenkovsky:** (Contribution Details - e.g., Programming, AI)
+*   **Mikhail Tenkovsky:** Game design, 2D Art, Music
 *   **Ilya Minin (Eli):** Level Design, Sound Design, Models, Lighting
-*   **Artyom Merkushev:** (Contribution Details - e.g., Vehicle Physics, UI)
+*   **Artyom Merkushev:** Programming, Vehicle Physics, AI
 
 ## Running the Project
 
