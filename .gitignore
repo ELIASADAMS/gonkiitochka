@@ -74,3 +74,11 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 /Гонки и точка/Library/Artifacts/00
 /Гонки и точка/Library/Artifacts
+*.dag_derived
+/Гонки и точка/Library/StateCache
+/Гонки и точка/Library/ShaderCache
+/Гонки и точка/obj/Debug
+/Гонки и точка/Library/PackageCache
+/Гонки и точка/Library/PlayerDataCache
+/Гонки и точка/Library/BurstCache
+/Гонки и точка/Library/PackageManager
